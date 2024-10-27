@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Hello guys, I'm Emad Bojdi, a junior Front-End developer in Iran<br>💎 Do you have any project? Contact Me :<br>✉️ emadfredev@gmail.com
+⚡ Hello guys, I'm Emad Bojdi, a junior Front-End developer in Iran <br> Trying to be a software engineer <br>💎 Do you have any project? Contact Me :<br>✉️ emadfredev@gmail.com
 
 
 ## 🌐 Socials:
